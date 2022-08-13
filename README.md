@@ -1,6 +1,8 @@
 # Hi there 👋, My name is Imad Ichiri
 ## I am a Web Developer
-<img src='' alt='README Banner' />
+<p align='center'>
+<img src='banner.png' alt='README Banner' />
+</p>
 
 I am a web dev who love to learn new things every day especially in the IT world
 
