@@ -6,9 +6,9 @@
 
 I am a web dev who love to learn new things every day especially in the IT world
 
-Skills: [ 'HTML', 'CSS', 'JS' ]
+Skills: [ 'ReactJs', 'JavaScript', 'HTML', 'CSS', 'SASS', 'TailwindCss' ]
 
-- 🌱 I’m currently learning ReactJs and NodeJs
+- 🌱 I’m currently learning PHP and Laravel
 - 📫 How to reach me: <a>ichiri02imad@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
